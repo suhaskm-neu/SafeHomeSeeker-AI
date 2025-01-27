@@ -1,6 +1,6 @@
 # Smart House Finder
 
-# Published Blog Link: [Blog]([https://beta.openai.com/signup/](https://aixplain.com/blog/community-story-dc-safehomeseeker-ai-property-search/)).
+- **Published Blog Link** [Bllog](https://beta.openai.com/signup/](https://aixplain.com/blog/community-story-dc-safehomeseeker-ai-property-search/).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
