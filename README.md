@@ -1,4 +1,4 @@
-# Smart House Finder
+# SafeHomeSeeker
 
 - **Published Blog Link**: [DC SafeHomeSeeker - AI Property Search](https://aixplain.com/blog/community-story-dc-safehomeseeker-ai-property-search/)
 
